@@ -1,8 +1,5 @@
 import apis.employee
 from apis.employee import *
-import os
-
-os.chdir(r'C:\Users\arjun\Documents\Arjun\coding\python work learning\sqlite3\employee manager')
 
 option = input("Enter \"add\" in the terminal to add a new emplyee into the db.\nEnter \"close\" in the terminal to close.\nYour option : ")
 
